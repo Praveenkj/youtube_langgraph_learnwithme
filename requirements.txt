@@ -12,3 +12,5 @@ wikipedia
 trustcall
 langgraph-cli[inmem]
 Ipython
+python-dotenv
+langchain_google_genai
