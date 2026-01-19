@@ -16,7 +16,7 @@ def node_1(state):
 
 from typing import Literal
 def should_continue(state) -> Literal["node_1", "__end__"]:
-    if state.get("num", 0) >= 5:
+    if state.get("num", 0) >= 10:
         return "__end__"
     return "node_1"
 
