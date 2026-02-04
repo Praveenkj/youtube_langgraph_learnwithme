@@ -2,7 +2,8 @@
     "dockerfile_lines": [],
     "graphs": {
         "file_1": "./file_1.py:graph",
-        "file_2": "./file_2.py:graph"
+        "file_2": "./file_2.py:graph",
+        "9_summarizing_message.py": "./9_summarizing_message.py:graph"
     },
     "env": "./.env",
     "python_version": "3.11",
