@@ -14,3 +14,6 @@ langgraph-cli[inmem]
 Ipython
 python-dotenv
 langchain_google_genai
+langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
+psycopg-pool
