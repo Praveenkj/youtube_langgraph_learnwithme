@@ -17,3 +17,4 @@ langchain_google_genai
 langgraph-checkpoint-sqlite
 langgraph-checkpoint-postgres
 psycopg-pool
+langchain_ollama
