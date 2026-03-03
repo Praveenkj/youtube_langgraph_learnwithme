@@ -18,3 +18,4 @@ langgraph-checkpoint-sqlite
 langgraph-checkpoint-postgres
 psycopg-pool
 langchain_ollama
+langchain_nvidia_ai_endpoints
