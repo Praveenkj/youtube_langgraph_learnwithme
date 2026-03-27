@@ -1,7 +1,6 @@
 langgraph
 langgraph-prebuilt
 langgraph-sdk
-langgraph-checkpoint-sqlite
 langsmith
 langchain-community
 langchain-core
@@ -19,3 +18,5 @@ langgraph-checkpoint-postgres
 psycopg-pool
 langchain_ollama
 langchain_nvidia_ai_endpoints
+langchain-xai
+langchain-groq
